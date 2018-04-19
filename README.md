@@ -1,7 +1,7 @@
 # CSS-cheat-sheet
 
 
-Aligning contents Left and center with flexbox:
+<code>Aligning contents Left and center with flexbox:
 Add a third element on html:
 <div class="parent">
   <div class="left">Left</div>
@@ -15,4 +15,4 @@ css:
 }
 .left, .right {
   flex: 1;
-}
+}</code>
